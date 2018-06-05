@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ExcelDriver.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  StringConversions.cpp
+  ExcelDriver.cpp
+c:\raymond\nyu tandon\financial computing fre6883\project\impact of earnings announcements on stock prices\impact of earnings announcements on stock prices\exceldriver\excelimports.cpp(47): warning C4192: automatically excluding 'IFont' while importing type library 'C:\Program Files\Microsoft Office\root\Office16\excel.exe'
+c:\raymond\nyu tandon\financial computing fre6883\project\impact of earnings announcements on stock prices\impact of earnings announcements on stock prices\exceldriver\excelimports.cpp(47): warning C4192: automatically excluding 'IPicture' while importing type library 'C:\Program Files\Microsoft Office\root\Office16\excel.exe'
+  ExcelImports.cpp
+  ExcelMechanisms.cpp
+  DatasimException.cpp
+  main.cpp
+c:\raymond\nyu tandon\financial computing fre6883\project\impact of earnings announcements on stock prices\impact of earnings announcements on stock prices\exceldriver\download.h(55): warning C4477: 'sprintf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'time_t'
+  c:\raymond\nyu tandon\financial computing fre6883\project\impact of earnings announcements on stock prices\impact of earnings announcements on stock prices\exceldriver\download.h(55): note: consider using '%lld' in the format string
+  c:\raymond\nyu tandon\financial computing fre6883\project\impact of earnings announcements on stock prices\impact of earnings announcements on stock prices\exceldriver\download.h(55): note: consider using '%I64d' in the format string
+c:\raymond\nyu tandon\financial computing fre6883\project\impact of earnings announcements on stock prices\impact of earnings announcements on stock prices\exceldriver\download.h(55): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\raymond\nyu tandon\financial computing fre6883\project\impact of earnings announcements on stock prices\impact of earnings announcements on stock prices\exceldriver\download.h(122): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\raymond\nyu tandon\financial computing fre6883\project\impact of earnings announcements on stock prices\impact of earnings announcements on stock prices\exceldriver\download.h(125): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\raymond\nyu tandon\financial computing fre6883\project\impact of earnings announcements on stock prices\impact of earnings announcements on stock prices\exceldriver\download.h(283): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\raymond\nyu tandon\financial computing fre6883\project\impact of earnings announcements on stock prices\impact of earnings announcements on stock prices\exceldriver\download.h(286): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+  Generating Code...
+  ExcelDriver.vcxproj -> C:\raymond\NYU Tandon\Financial Computing FRE6883\Project\Impact of Earnings Announcements on Stock Prices\Impact of Earnings Announcements on Stock Prices\Debug\6883.exe

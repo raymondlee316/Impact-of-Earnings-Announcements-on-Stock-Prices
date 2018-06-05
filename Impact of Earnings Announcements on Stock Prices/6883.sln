@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExcelDriver", "ExcelDriver\ExcelDriver.vcxproj", "{736EB918-686A-4EDC-8BB1-EA7889121655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{736EB918-686A-4EDC-8BB1-EA7889121655}.Debug|Win32.ActiveCfg = Debug|Win32
+		{736EB918-686A-4EDC-8BB1-EA7889121655}.Debug|Win32.Build.0 = Debug|Win32
+		{736EB918-686A-4EDC-8BB1-EA7889121655}.Release|Win32.ActiveCfg = Release|Win32
+		{736EB918-686A-4EDC-8BB1-EA7889121655}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
